@@ -1,7 +1,7 @@
 {
 	"Scoreboard": {
-		"SCORE_SPECTATOR": "SPECTATORS:",
-		"SCORE_NO_SPEC": "Nobody is currently spectating.",
+		"SCORE_SPECTATOR": "СПОСТЕРІГАЧІ:",
+		"SCORE_NO_SPEC": "Ніхто зараз не спостерігає.",
 		"SCORE_PLAYER_KO": "PLAYER KO's",
 		"SCORE_NPC_KO": "NPC KO's",
 		"SCORE_SELF_KO": "TIMES KO'd",
