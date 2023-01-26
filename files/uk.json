@@ -2,13 +2,13 @@
 	"Scoreboard": {
 		"SCORE_SPECTATOR": "СПОСТЕРІГАЧІ:",
 		"SCORE_NO_SPEC": "Ніхто зараз не спостерігає.",
-		"SCORE_PLAYER_KO": "PLAYER KO's",
+		"SCORE_PLAYER_KO": "ГРАВЕЦЬ KO's",
 		"SCORE_NPC_KO": "NPC KO's",
-		"SCORE_SELF_KO": "TIMES KO'd",
+		"SCORE_SELF_KO": "Разів KO'd",
 		"SCORE_DAMAGE_OUT": "Нанесені пошкодження",
 		"SCORE_DAMAGE_IN": "Отримані пошкодження",
 		"SCORE_HEALING": "Лікування союзників",
-		"SCORE_MISC": "MISCELLANEOUS",
+		"SCORE_MISC": "РІЗНЕ",
 		"SCORE_POINTS": "pts"
 	},
 	"Miscellaneous": {
@@ -28,7 +28,7 @@
 	},
 	"Item Name": {
 		"SkW_GARDEN": "Пізньоцвіт",
-		"SkA_DEFAULT": "\"Fhuuu\" the Angel",
+		"SkA_DEFAULT": "\"Fhuuu\" Aнгел",
 		"WpW_HEAL_GILDED": "Gilded Lil' Clinic",
 		"WpL_DEFAULT_GILDED": "Позолочений космічний пістолет",
 		"WpW_HEAL_DEV": "{0}Development Lil' Clinic",
